@@ -37,7 +37,7 @@ Implement a **Neural Style Transfer** model to apply artistic styles to photogra
 2. Install dependencies:
    ```bash
    pip install tensorflow keras Pillow
-````
+
 
 3. Replace the paths of the content and style images with your own in the notebook.
 4. Run the notebook to visualize the output.
