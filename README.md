@@ -1,7 +1,5 @@
 
----
 
-````markdown
 # Neural Style Transfer Project
 
 ## Objective
